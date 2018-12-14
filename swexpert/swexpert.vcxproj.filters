@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\Reference_Code">
+      <UniqueIdentifier>{48e1e850-5c93-458d-9c9a-c75c385474ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Answers">
+      <UniqueIdentifier>{11ce3f4e-66e2-41de-b09f-b5340971f83f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\TEST">
+      <UniqueIdentifier>{9bc38e20-9100-4b37-9f6d-699b30c48179}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\infrun lecture">
+      <UniqueIdentifier>{fec1b239-5996-493c-aebd-b378f73c3991}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Programmers">
+      <UniqueIdentifier>{b2aca9b4-759d-4ec1-a883-ed1e93b9afc7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Programmers\sort">
+      <UniqueIdentifier>{ea263904-ca99-48fb-b55a-9eea1ad4ad4a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Programmers\heap">
+      <UniqueIdentifier>{537a4b31-c846-4692-9452-c5e272f4db23}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Programmers\HashMap">
+      <UniqueIdentifier>{ed2ad4c1-243f-49fa-984f-6251f840fa34}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Programmers\Stack_Queue">
+      <UniqueIdentifier>{9a50edee-e2b1-4ea8-8777-37b51a1f169e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Dijkstra.cpp">
+      <Filter>소스 파일\Reference_Code</Filter>
+    </ClCompile>
+    <ClCompile Include="View.cpp">
+      <Filter>소스 파일\Answers</Filter>
+    </ClCompile>
+    <ClCompile Include="Flatten.cpp">
+      <Filter>소스 파일\Answers</Filter>
+    </ClCompile>
+    <ClCompile Include="GNS.cpp">
+      <Filter>소스 파일\Answers</Filter>
+    </ClCompile>
+    <ClCompile Include="Ladder1.cpp">
+      <Filter>소스 파일\Answers</Filter>
+    </ClCompile>
+    <ClCompile Include="Square.cpp">
+      <Filter>소스 파일\Answers</Filter>
+    </ClCompile>
+    <ClCompile Include="String.cpp">
+      <Filter>소스 파일\Answers</Filter>
+    </ClCompile>
+    <ClCompile Include="Sum.cpp">
+      <Filter>소스 파일\Answers</Filter>
+    </ClCompile>
+    <ClCompile Include="Supply_way.cpp">
+      <Filter>소스 파일\Answers</Filter>
+    </ClCompile>
+    <ClCompile Include="Magnetic.cpp">
+      <Filter>소스 파일\Answers</Filter>
+    </ClCompile>
+    <ClCompile Include="MakingCrypto.cpp">
+      <Filter>소스 파일\Answers</Filter>
+    </ClCompile>
+    <ClCompile Include="Maze1_Recursive.cpp">
+      <Filter>소스 파일\Answers</Filter>
+    </ClCompile>
+    <ClCompile Include="Maze1_BFS.cpp">
+      <Filter>소스 파일\Answers</Filter>
+    </ClCompile>
+    <ClCompile Include="password.cpp">
+      <Filter>소스 파일\Answers</Filter>
+    </ClCompile>
+    <ClCompile Include="Escape_ball.cpp">
+      <Filter>소스 파일\Answers</Filter>
+    </ClCompile>
+    <ClCompile Include="Detecting_Virus.cpp">
+      <Filter>소스 파일\Answers</Filter>
+    </ClCompile>
+    <ClCompile Include="Dragon_Curve.cpp">
+      <Filter>소스 파일\Answers</Filter>
+    </ClCompile>
+    <ClCompile Include="ubin.cpp">
+      <Filter>소스 파일\Answers</Filter>
+    </ClCompile>
+    <ClCompile Include="Modifying_Ladder.cpp">
+      <Filter>소스 파일\Answers</Filter>
+    </ClCompile>
+    <ClCompile Include="Surveillance.cpp">
+      <Filter>소스 파일\Answers</Filter>
+    </ClCompile>
+    <ClCompile Include="Ball_game.cpp">
+      <Filter>소스 파일\Answers</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>소스 파일\TEST</Filter>
+    </ClCompile>
+    <ClCompile Include="N-Queens.cpp">
+      <Filter>소스 파일\infrun lecture</Filter>
+    </ClCompile>
+    <ClCompile Include="Powerset.cpp">
+      <Filter>소스 파일\infrun lecture</Filter>
+    </ClCompile>
+    <ClCompile Include="max_number.cpp">
+      <Filter>소스 파일\Programmers\sort</Filter>
+    </ClCompile>
+    <ClCompile Include="H-index.cpp">
+      <Filter>소스 파일\Programmers\sort</Filter>
+    </ClCompile>
+    <ClCompile Include="kth_number.cpp">
+      <Filter>소스 파일\Programmers\sort</Filter>
+    </ClCompile>
+    <ClCompile Include="more_spicy.cpp">
+      <Filter>소스 파일\Programmers\heap</Filter>
+    </ClCompile>
+    <ClCompile Include="nuddle_factory.cpp">
+      <Filter>소스 파일\Programmers\heap</Filter>
+    </ClCompile>
+    <ClCompile Include="double_priority_queue.cpp">
+      <Filter>소스 파일\Programmers\heap</Filter>
+    </ClCompile>
+    <ClCompile Include="disk_controller.cpp">
+      <Filter>소스 파일\Programmers\heap</Filter>
+    </ClCompile>
+    <ClCompile Include="Not_Finished_Runner.cpp">
+      <Filter>소스 파일\Programmers\HashMap</Filter>
+    </ClCompile>
+    <ClCompile Include="Phone_Number_List.cpp">
+      <Filter>소스 파일\Programmers\HashMap</Filter>
+    </ClCompile>
+    <ClCompile Include="Camouflage.cpp">
+      <Filter>소스 파일\Programmers\HashMap</Filter>
+    </ClCompile>
+    <ClCompile Include="Best_Album.cpp">
+      <Filter>소스 파일\Programmers\HashMap</Filter>
+    </ClCompile>
+    <ClCompile Include="Iron_stick.cpp">
+      <Filter>소스 파일\Programmers\Stack_Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="printer.cpp">
+      <Filter>소스 파일\Programmers\Stack_Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="Top.cpp">
+      <Filter>소스 파일\Programmers\Stack_Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="dev_of_func.cpp">
+      <Filter>소스 파일\Programmers\Stack_Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="price_of_stock.cpp">
+      <Filter>소스 파일\Programmers\Stack_Queue</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
